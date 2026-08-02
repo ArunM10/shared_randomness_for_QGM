@@ -7,8 +7,10 @@ The scripts reproduce the numerical comparison between shallow unitary Born mode
 ## Citation
 
 Please cite the corresponding paper if you use this code or data.
+```
 @misc{Majumder_Shared_randomness,
 author = {Majumder, Arunava},
 title = {{Shared\_randomness}},
 url = {https://github.com/ArunM10/shared_randomness_for_QGM.git}
 }
+```
