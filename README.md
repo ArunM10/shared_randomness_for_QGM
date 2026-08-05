@@ -10,7 +10,8 @@ Please cite the corresponding paper if you use this code or data.
 ```
 @misc{Majumder_Shared_randomness,
 author = {Majumder, Arunava},
-title = {{Shared\_randomness}},
+title = {Shared Randomness for Quantum Generative Models},
+year = {2026},
 url = {https://github.com/ArunM10/shared_randomness_for_QGM.git}
 }
 ```
